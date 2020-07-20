@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Projeto Podcast, consumindo um objeto JSON.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -42,20 +42,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Fazer o clone do projeto e entrar na pasta podcast_IGTI
 
 ```
-Give examples
+git clone git@github.com:alex-dev2015/podcast_IGTI.git
+cd podcast_IGTI
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Executar o gerenciador de pacotes npm 
 
 ```
-Give the example
+npm install
 ```
 
 And repeat
@@ -64,7 +63,7 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+Executar o servidor para rodar o projeto
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
@@ -96,14 +95,13 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript) - Javascript
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@alex-dev2015](https://github.com/alex-dev2015) - Alex Sousa
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
